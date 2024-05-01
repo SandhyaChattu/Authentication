@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.login-img {
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+}
+.login-container {
+  display: flex;
+  flex-direction: row;
+}
+.logo-img {
+  height: 100px;
+  width: 100px;
+}
